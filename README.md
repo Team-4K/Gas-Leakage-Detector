@@ -48,6 +48,13 @@ We designed a 3D-printed enclosure useing **Solidworks** software, to house the 
 ## Software Integration ##
 The software integrates the sensor data processing, alarm triggering, and SMS alert mechanism. We used **Arduino IDE** for programming the microcontroller and interfacing with the GSM module.
 
+## Final Design ##
+![3](https://github.com/Team-4K/Gas-Leakage-Detector/assets/129822318/10088b6a-36ad-4c5a-850e-120e3c1dc234)
+
+![1](https://github.com/Team-4K/Gas-Leakage-Detector/assets/129822318/8df3cc3e-b81a-4277-bd96-ef489ba02f7f)
+
+
+
 ## Contributors ##
 - Chamod - Enclosure Design, Testing and Assembling
 - Tharaka - PCB Design, Testing and Assembling
